@@ -15,3 +15,6 @@ This project is a taxi simulation game where the player navigates a grid-based c
 ## 🛠️ Tech Stack
 - **Language:** x86 Assembly Language (.asm)
 - **Tools:** MASM 
+
+## Project Video
+https://drive.google.com/file/d/1u6Orw0MBu80ipf0-aHwRyxdbER5I70CG/view?usp=drive_link
